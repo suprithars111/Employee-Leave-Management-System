@@ -15,8 +15,7 @@ A leave management system is an all-in-one platform that handles all employee va
 
 Installation
 
-Install XAMPP 
-Close this repo into your htdocs directory
-Populate the database by importing the db/elms.sql file via phpMyAdmin
-Configure your database connection details in the includes/config.php file
-Start the server and open the webpage in localhost/elms
+* Install XAMPP 
+* Populate the database by importing the db/elms.sql file via phpMyAdmin
+* Configure your database connection details in the includes/config.php file
+* Start the server and open the webpage in localhost/elms
